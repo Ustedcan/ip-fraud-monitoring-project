@@ -1,0 +1,17 @@
+# Exclude common IDE and environment files
+.DS_Store
+.vscode/
+venv/
+env-ips/
+__pycache__/
+
+# SENSITIVE DATA AND MODEL ARTIFACTS
+*.mmdb
+*.ipynb
+*.xlsx
+
+# CORE PRIVATE IP (Critical for Fraud Detection)
+mapping_loop.py
+
+# Gitignore
+#.gitignore
