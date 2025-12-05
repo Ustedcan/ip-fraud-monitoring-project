@@ -1,7 +1,7 @@
 # Ip Fraud Monitoring Project
 ## Data Source
 
-The development and validation of this IP monitoring project were executed **exclusively** using **public**. This methodological constraint ensures the project's absolute independence from any corporate confidential information.
+The development and validation of this IP monitoring project were executed **exclusively** using **public** data. This methodological constraint ensures the project's absolute independence from any corporate confidential information.
 
 The specific *dataset* utilized is:
 
