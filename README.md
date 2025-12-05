@@ -1,12 +1,13 @@
-## 🔎 Data Source (Fuente de Datos)
+# Ip Fraud Monitoring Project
+## Data Source
 
-El desarrollo y la validación de este *framework* de detección de fraude se realizaron **exclusivamente** con **datos públicos** y sintéticos, asegurando la independencia del proyecto de cualquier información confidencial corporativa.
+The development and validation of this IP monitoring projec were executed **exclusively** using **public** and synthetic data. This methodological constraint ensures the project's absolute independence from any corporate confidential information.
 
-El *dataset* utilizado es:
+The specific *dataset* utilized is:
 
-* **Título:** Fraud Detection Dataset
-* **Autor/Creador:** Ziya (Usuario de Kaggle)
-* **Plataforma de Alojamiento:** Kaggle Datasets
-* **Enlace de Validación:** [Enlace al Dataset](https://www.kaggle.com/datasets/ziya07/fraud-detection-dataset)
+* **Title:** Fraud Detection Dataset
+* **Author/Creator:** Ziya (Kaggle User)
+* **Hosting Platform:** Kaggle Datasets
+* **Validation Link:** [Dataset Link](https://www.kaggle.com/datasets/ziya07/fraud-detection-dataset)
 
-**Nota:** La utilización de este *dataset* público es la prueba fundamental de que la **génesis y el desarrollo** de la Propiedad Intelectual de este *framework* se realizó en un **entorno ajeno** al mandato funcional y los recursos de mi empleador.
+**Critical Note:** The reliance on this publicly available *dataset* serves as the fundamental evidence that the **genesis and development** of this *framework's* Intellectual Property occurred in an **environment entirely external** to the functional mandate and resources provided by my current employer.
