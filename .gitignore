@@ -5,12 +5,16 @@ venv/
 env-ips/
 __pycache__/
 
+# Folders
+dataset/
+ips.xlsx
+
 # SENSITIVE DATA AND MODEL ARTIFACTS
 *.mmdb
 *.ipynb
 *.xlsx
 
-# CORE PRIVATE IP (Critical for Fraud Detection)
+# CORE PRIVATE IP 
 mapping_loop.py
 
 # Gitignore
