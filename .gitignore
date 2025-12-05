@@ -1,4 +1,4 @@
-# Exclude common IDE and environment files
+# Exclude environment files
 .DS_Store
 .vscode/
 venv/
